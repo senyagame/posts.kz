@@ -14,21 +14,22 @@ h1 {
 
 button {
     background-color: #4CAF50;
-    color: #fff;
+    color: #000000;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 5px; 
     cursor: pointer;
+    font-weight: bold;
 }
 
 button:hover {
-    background-color: #3e8e41;
+    background-color: #24d800;
 }
 
 .post {
     margin-bottom: 20px;
     padding: 20px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #d1d1d1;
 }
 
 .post:last-child {
